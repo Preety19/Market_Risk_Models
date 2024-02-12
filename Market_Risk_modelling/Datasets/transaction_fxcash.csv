@@ -1,0 +1,4 @@
+id,instrument,currency,currency_base,unit_count
+id1,FXCash,USD,INR,10000
+id2,FXCash,GBP,INR,2000
+id3,FXCash,EUR,INR,5000
